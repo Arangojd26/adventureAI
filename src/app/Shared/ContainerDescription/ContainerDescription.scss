@@ -1,0 +1,29 @@
+.o-container-description {
+  // background: rgb(175, 43, 43);
+  position: absolute;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 4rem;
+  z-index: 2;
+  bottom: 31%;
+}
+
+.o-container-description a {
+  display: block;
+  font-size: 1em;
+  color: #fff;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 800px) {
+  .o-container-description {
+    left: 0;
+    bottom: 0;
+    margin-bottom: 2.5rem;
+    padding-left: 1rem;
+  }
+}

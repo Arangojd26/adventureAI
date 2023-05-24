@@ -1,0 +1,22 @@
+.o-bg {
+  position: absolute;
+  background: #253237;
+  width: 100%;
+}
+.o-blackout {
+  position: absolute;
+  top: 0;
+  background: black;
+  width: 100%;
+  height: 100vh;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.o-blackout > button {
+  width: 7rem;
+  height: 3rem;
+  cursor: pointer;
+}
