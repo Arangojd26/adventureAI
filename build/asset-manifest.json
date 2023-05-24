@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf0f2cf0.chunk.css",
+    "main.js": "/static/js/main.0da3cd60.chunk.js",
+    "main.js.map": "/static/js/main.0da3cd60.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b83279d6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b83279d6.js.map",
+    "static/js/2.aa36a2c5.chunk.js": "/static/js/2.aa36a2c5.chunk.js",
+    "static/js/2.aa36a2c5.chunk.js.map": "/static/js/2.aa36a2c5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cf0f2cf0.chunk.css.map": "/static/css/main.cf0f2cf0.chunk.css.map",
+    "static/js/2.aa36a2c5.chunk.js.LICENSE.txt": "/static/js/2.aa36a2c5.chunk.js.LICENSE.txt",
+    "static/media/AboutMe.66759eec.png": "/static/media/AboutMe.66759eec.png",
+    "static/media/GetInTouch2.a3371bc1.png": "/static/media/GetInTouch2.a3371bc1.png",
+    "static/media/Projects2.67a4e2bb.png": "/static/media/Projects2.67a4e2bb.png",
+    "static/media/index.css": "/static/media/futura-medium-bt.4e762c29.ttf",
+    "static/media/audio1.db2d8f2c.mp3": "/static/media/audio1.db2d8f2c.mp3",
+    "static/media/audio2.deb3905d.mp3": "/static/media/audio2.deb3905d.mp3",
+    "static/media/audio3.2969e0d0.mp3": "/static/media/audio3.2969e0d0.mp3",
+    "static/media/audioLofi.c7ef1219.mp3": "/static/media/audioLofi.c7ef1219.mp3",
+    "static/media/CardParallax.scss": "/static/media/moon.c6a18c79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b83279d6.js",
+    "static/js/2.aa36a2c5.chunk.js",
+    "static/css/main.cf0f2cf0.chunk.css",
+    "static/js/main.0da3cd60.chunk.js"
+  ]
+}
